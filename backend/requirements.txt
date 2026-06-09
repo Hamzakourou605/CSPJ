@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-jwt-extended
+fpdf
+arabic-reshaper
+python-bidi
+joblib
+numpy
+pandas
+pyodbc
+scikit-learn
